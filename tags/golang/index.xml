@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Sail</title>
+    <link>http://slicedstone.github.io/tags/golang/</link>
+    <description>Recent content in Golang on Sail</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Mar 2016 18:35:07 +0800</lastBuildDate>
+    <atom:link href="http://slicedstone.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>second</title>
+      <link>http://slicedstone.github.io/post/second/</link>
+      <pubDate>Fri, 04 Mar 2016 18:35:07 +0800</pubDate>
+      
+      <guid>http://slicedstone.github.io/post/second/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
