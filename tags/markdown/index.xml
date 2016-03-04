@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Development on Sail</title>
-    <link>http://slicedstone.github.io/tags/development/</link>
-    <description>Recent content in Development on Sail</description>
+    <title>Markdown on Sail</title>
+    <link>http://slicedstone.github.io/tags/markdown/</link>
+    <description>Recent content in Markdown on Sail</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Mar 2016 20:10:48 +0800</lastBuildDate>
-    <atom:link href="http://slicedstone.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://slicedstone.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>markdown语法</title>
@@ -46,30 +46,6 @@ Markdown语法的编辑器有很多，包括很多网站（例如&lt;a href=&#34
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://wowubuntu.com/markdown/#list&#34;&gt;
 &lt;em&gt;Markdown中文版语法说明&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Java基础回顾</title>
-      <link>http://slicedstone.github.io/java/Java%E5%9F%BA%E7%A1%80%E5%9B%9E%E9%A1%BE/</link>
-      <pubDate>Fri, 04 Mar 2016 19:24:15 +0800</pubDate>
-      
-      <guid>http://slicedstone.github.io/java/Java%E5%9F%BA%E7%A1%80%E5%9B%9E%E9%A1%BE/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;spcial thanks to &lt;a href=&#34;http://newoxygen.github.io/post/hugo%E5%BF%AB%E9%80%9F%E5%BB%BA%E7%AB%99/&#34;&gt;氧气计算&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;在Java中如何跳出当前的多重嵌套循环？&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;switch语句能否作用在byte上，能否作用在long上，能否作用在String上？&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;switch(expr)&lt;/code&gt;，其中&lt;code&gt;expr&lt;/code&gt;只能是一个整数表达式(&lt;code&gt;int&lt;/code&gt;或&lt;code&gt;Integer&lt;/code&gt;)或枚举变量。&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;code&gt;short s1 = 1; s1 = s1 + 1;&lt;/code&gt;和&lt;code&gt;short s1 = 1; s1 += 1&lt;/code&gt;的区别？&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;code&gt;char&lt;/code&gt;型变量能否存储一个中文汉字？&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     

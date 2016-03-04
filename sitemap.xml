@@ -3,13 +3,18 @@
   
   <url>
     <loc>http://slicedstone.github.io/</loc>
-    <lastmod>2016-03-04T18:35:07+08:00</lastmod>
+    <lastmod>2016-03-04T20:10:48+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://slicedstone.github.io/post/second/</loc>
-    <lastmod>2016-03-04T18:35:07+08:00</lastmod>
+    <loc>http://slicedstone.github.io/tools/markdown%E8%AF%AD%E6%B3%95/</loc>
+    <lastmod>2016-03-04T20:10:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://slicedstone.github.io/java/Java%E5%9F%BA%E7%A1%80%E5%9B%9E%E9%A1%BE/</loc>
+    <lastmod>2016-03-04T19:24:15+08:00</lastmod>
   </url>
   
 </urlset>

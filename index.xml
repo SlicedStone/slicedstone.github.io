@@ -6,16 +6,71 @@
     <description>Recent content on Sail</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Mar 2016 18:35:07 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 04 Mar 2016 20:10:48 +0800</lastBuildDate>
     <atom:link href="http://slicedstone.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>second</title>
-      <link>http://slicedstone.github.io/post/second/</link>
-      <pubDate>Fri, 04 Mar 2016 18:35:07 +0800</pubDate>
+      <title>markdown语法</title>
+      <link>http://slicedstone.github.io/tools/markdown%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Fri, 04 Mar 2016 20:10:48 +0800</pubDate>
       
-      <guid>http://slicedstone.github.io/post/second/</guid>
-      <description></description>
+      <guid>http://slicedstone.github.io/tools/markdown%E8%AF%AD%E6%B3%95/</guid>
+      <description>
+
+&lt;h1 id=&#34;markdown-从入门到精通:edf1699e8beeca59255551051fe13f09&#34;&gt;Markdown&amp;ndash;从入门到精通&lt;/h1&gt;
+
+&lt;h4 id=&#34;导语:edf1699e8beeca59255551051fe13f09&#34;&gt;导语：&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[Markdown]{&lt;a href=&#34;http://zh.wikipedia.org/wiki/Markdown&#34;&gt;http://zh.wikipedia.org/wiki/Markdown&lt;/a&gt;} 是一种轻量级的&lt;strong&gt;标记语言&lt;/strong&gt;，它的优点很多，目前也被越来越多的写作爱好者、撰稿者
+广泛使用。看到这里请不要被&lt;strong&gt;标记&lt;/strong&gt;、&lt;strong&gt;语言&lt;/strong&gt;所迷惑，Markdown的语法十分简单。常用的标记符也不超过十个，这种相对于更为复杂的HTML标记语言来说，
+Markdown可谓是十分轻量的，学习成本也不需要太多，且一旦熟悉这种语法规则，会有一劳永逸的效果。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;一-认识markdown:edf1699e8beeca59255551051fe13f09&#34;&gt;一，认识Markdown&lt;/h2&gt;
+
+&lt;p&gt;在刚才的导语里提到，Markdown是一种用来写作的轻量级&lt;strong&gt;标记语言&lt;/strong&gt;，它用简洁的语法代替模板，而不像一般我们用的字处理软件*Word*或*Pages*有大量的
+排版、字体设置。它使我们专心于码字，用&lt;strong&gt;标记&lt;/strong&gt;语法来代替常见的排版格式。例如此文从内容到格式，甚至插图，键盘就可以通通搞定了。目前来看，支持
+Markdown语法的编辑器有很多，包括很多网站（例如&lt;a href=&#34;http://jianshu.io&#34;&gt;简书&lt;/a&gt;）也支持了Markdown的文字录入。Markdown写出的简历也可以十分方便的导出PDF。&lt;/p&gt;
+
+&lt;h3 id=&#34;markdown官方文档:edf1699e8beeca59255551051fe13f09&#34;&gt;Markdown官方文档&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这里可以看到官方的Markdown语法规则文档，当然，后文我也会用自己的方式阐述这些语法的具体用法。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://daringfireball.net/projects/markdown/syntax&#34;&gt;
+&lt;em&gt;创始人John Gruber的Markdown语法说明&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://wowubuntu.com/markdown/#list&#34;&gt;
+&lt;em&gt;Markdown中文版语法说明&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Java基础回顾</title>
+      <link>http://slicedstone.github.io/java/Java%E5%9F%BA%E7%A1%80%E5%9B%9E%E9%A1%BE/</link>
+      <pubDate>Fri, 04 Mar 2016 19:24:15 +0800</pubDate>
+      
+      <guid>http://slicedstone.github.io/java/Java%E5%9F%BA%E7%A1%80%E5%9B%9E%E9%A1%BE/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;spcial thanks to &lt;a href=&#34;http://newoxygen.github.io/post/hugo%E5%BF%AB%E9%80%9F%E5%BB%BA%E7%AB%99/&#34;&gt;氧气计算&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;在Java中如何跳出当前的多重嵌套循环？&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;switch语句能否作用在byte上，能否作用在long上，能否作用在String上？&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;switch(expr)&lt;/code&gt;，其中&lt;code&gt;expr&lt;/code&gt;只能是一个整数表达式(&lt;code&gt;int&lt;/code&gt;或&lt;code&gt;Integer&lt;/code&gt;)或枚举变量。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;code&gt;short s1 = 1; s1 = s1 + 1;&lt;/code&gt;和&lt;code&gt;short s1 = 1; s1 += 1&lt;/code&gt;的区别？&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;code&gt;char&lt;/code&gt;型变量能否存储一个中文汉字？&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>
